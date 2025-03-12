@@ -1,1 +1,1 @@
-# gitting-practice--with-me
+# git-practice--with-me
